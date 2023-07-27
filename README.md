@@ -1,14 +1,17 @@
-Website of Seán Ó Caomhánaigh
+[Website of Seán Ó Caomhánaigh](https://seanoc.art)
 =============================
-CMS 
----
+
+### Deps
+`md-to-pdf`
+
+### CMS 
 *.md files
-Build
------
+
+### Build
 Run `md-to-pdf index.md --as-html --css 'html { font-size: 100%; }' -w`
-Staging
--------
+
+### Staging
 `deploy-preview-n--seanoc-art.netlify.app` where n is the stage e.g https://deploy-preview-2--seanoc-art.netlify.app
-Production
-----------
+
+### Production
 [seanoc.art](https://seanoc.art)
