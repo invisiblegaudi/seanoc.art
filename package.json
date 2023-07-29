@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  },
+  "scripts": {
+    "start": "node_modules/md-to-pdf/dist/cli.js ./index.md --watch --as-html"
+  }
+}
