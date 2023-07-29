@@ -1,6 +1,3 @@
-Certainly, here's the HTML converted into Markdown:
-
-```markdown
 # OAK-means
 
 ## DeptfordX festival 2018
