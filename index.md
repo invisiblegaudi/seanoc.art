@@ -9,8 +9,8 @@ The oak tree represents strength, stability, and resilience, reflecting the qual
 
 The glass of water symbolizes the fluidity, adaptability, and transformative power of life. Water can change its form from liquid to solid or gas, yet it remains composed of the same essential molecules. This dynamic nature of water serves as a metaphor for our spiritual journey, as we navigate the ever-changing currents of life and seek to embrace the divine essence within ourselves and others.
 
-Through rituals, meditation, and community gatherings, the Oak and Water Fellowship honors the wisdom of nature and its ability to guide us towards a deeper understanding of the divine. By exploring the symbolism of the oak tree and the glass of water, we strive to cultivate a spiritual practice that is grounded in the beauty and harmony of the natural world.
-
+Through rituals, meditation, and community gatherings, the Oak and Water Fellowship honours the wisdom of nature and its ability to guide us towards a deeper understanding of the divine. By exploring the symbolism of the oak tree and the glass of water, we strive to cultivate a spiritual practice that is grounded in the beauty and harmony of the natural world.
+e
 Are you ready to embark on a journey of self-discovery and spiritual growth, inspired by the timeless teachings of nature? Join the Oak and Water Fellowship and uncover the profound wisdom hidden within the oak tree and the glass of water.
 
-[next event](https://oakandwater.seanoc.art/events.html "Go to events listing page")To learn more about the Oak and Water Fellowship and how you can become a part of our spiritual community, join us at our  and begin your journey into the sacred realms of nature and the divine. The oak tree and the glass of water await your presence.
+To learn more about the Oak and Water Fellowship and how you can become a part of our spiritual community, join us at our [next event](https://oakandwater.seanoc.art/events.html "Go to events listing page") and begin your journey into the sacred realms of nature and the divine. The oak tree and the glass of water await your presence.
