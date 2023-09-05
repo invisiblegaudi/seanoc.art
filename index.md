@@ -1,6 +1,8 @@
 Unveiling the Wisdom of Nature: A Spiritual Journey with the Oak and Water Fellowship
 =====================================================================================
 
+### Interested to attend our next ritual? see our [events page](https://oakandwater.seanoc.art/events.html "Go to our events page")
+
 Are you searching for a spiritual path that celebrates the wisdom and beauty of the natural world? Introducing the Oak and Water Fellowship, a faith that draws inspiration from the timeless teachings of nature and its profound symbolism. Our community embraces the power and harmony found within the elements and living beings, guiding us on a path of inner growth and connection with the divine.
 
 The Oak and Water Fellowship finds deep meaning in the symbols of the mighty oak tree and the humble glass of water. These two elements embody the essence of our spiritual journey, offering valuable insights into the interconnectedness of life and the divine mysteries that permeate the universe.
@@ -13,4 +15,4 @@ Through rituals, meditation, and community gatherings, the Oak and Water Fellows
 e
 Are you ready to embark on a journey of self-discovery and spiritual growth, inspired by the timeless teachings of nature? Join the Oak and Water Fellowship and uncover the profound wisdom hidden within the oak tree and the glass of water.
 
-To learn more about the Oak and Water Fellowship and how you can become a part of our spiritual community, join us at our [next event](https://oakandwater.seanoc.art/events.html "Go to events listing page") and begin your journey into the sacred realms of nature and the divine. The oak tree and the glass of water await your presence.
+#### To learn more about the Oak and Water Fellowship and how you can become a part of our spiritual community, join us at our [next event](https://oakandwater.seanoc.art/events.html "Go to events listing page") and begin your journey into the sacred realms of nature and the divine. The oak tree and the glass of water await your presence.
