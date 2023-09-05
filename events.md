@@ -10,7 +10,7 @@ To participate:
 1. Upload an image taking inspiration from a section below.
 <iframe width="250" height="54" frameborder="0" src="https://mega.nz/filerequest#!iw3wsAFYCWI!l!en"></iframe>
 2. Record your ID.
-3. Bring your smartphone and your ID to [Little Faith in Deptford, London](https://osm.org/go/euuvnqo4v "Go to map") on the 23rd September 2023 @ 1pm sharp.
+3. Bring your smartphone and your ID to [Little Faith in Deptford, London](https://osm.org/go/euuvnqo4v "Go to map") on Sunday 24th September 2023 @ 1pm sharp.
 4. Share your offering online tagged **#oakandwater** and your choice's tag to help inspire your fellow participants (optional).
 
 The ritual will begin at 1pm sharp, please arrive a little early to receive your sigil bracelet.
