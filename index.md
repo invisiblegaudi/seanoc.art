@@ -1,5 +1,5 @@
 Unveiling the Wisdom of Nature: A Spiritual Journey with the Oak and Water Fellowship
--------------------------------------------------------------------------------------
+=====================================================================================
 
 Are you searching for a spiritual path that celebrates the wisdom and beauty of the natural world? Introducing the Oak and Water Fellowship, a faith that draws inspiration from the timeless teachings of nature and its profound symbolism. Our community embraces the power and harmony found within the elements and living beings, guiding us on a path of inner growth and connection with the divine.
 
@@ -13,8 +13,4 @@ Through rituals, meditation, and community gatherings, the Oak and Water Fellows
 
 Are you ready to embark on a journey of self-discovery and spiritual growth, inspired by the timeless teachings of nature? Join the Oak and Water Fellowship and uncover the profound wisdom hidden within the oak tree and the glass of water.
 
-To learn more about the Oak and Water Fellowship and how you can become a part of our spiritual community, visit our website and begin your journey into the sacred realms of nature and the divine. The oak tree and the glass of water await your presence.
-
-
-
-
+[next event](https://oakandwater.seanoc.art/events.html "Go to events listing page")To learn more about the Oak and Water Fellowship and how you can become a part of our spiritual community, join us at our  and begin your journey into the sacred realms of nature and the divine. The oak tree and the glass of water await your presence.
